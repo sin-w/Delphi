@@ -1,0 +1,8 @@
+# Delphi use
+__history
+Win32
+*.local
+*.identcache
+*.stat
+*.exe
+*.res
