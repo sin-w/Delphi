@@ -24,7 +24,7 @@ implementation
 
 {$R *.fmx}
 
-// コンパイラ司令 C言語でいう #define TEST
+// コンパイラ指令 C言語でいう #define TEST
 {$DEFINE TEST}
 
 procedure TForm1.Button1Click(Sender: TObject);
